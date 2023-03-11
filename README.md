@@ -5,19 +5,19 @@ This project was built using Python libraries(Pandas - Matplotlib) .It analyzes 
 data from kaggle https://www.kaggle.com/datasets/mohamedaabdelgani/houses-price-in-cairo-new-2023
 
 ## Questions for Analysis
-1)what is the most frequent city in the data?
+1- what is the most frequent city in the data?
 
-2)What is the average house price in each city?
+2- What is the average house price in each city?
 
-3)What is the average house space in each city?
+3- What is the average house space in each city?
 
-4)what is the relationship between space and price?
+4- what is the relationship between space and price?
 
-5)In which city is there the lowest AVG price per sqm and in which city is the highest AVG price per sqm?
+5- In which city is there the lowest AVG price per sqm and in which city is the highest AVG price per sqm?
 
-6)What is the percentage of houses in which the price per SQM is less than the average price per SQM in the same city?
+6- What is the percentage of houses in which the price per SQM is less than the average price per SQM in the same city?
 
-7)What is the chepeast price per SQM house?
+7- What is the chepeast price per SQM house?
 
 
 ## Conclusions
