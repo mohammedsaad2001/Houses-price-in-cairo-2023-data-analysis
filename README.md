@@ -1,8 +1,6 @@
 # Houses-price-in-cairo-2023-data-analysis
 ## About the project
 This project was built using Python libraries(Pandas - Matplotlib) .It analyzes data and visualize  houses information and their prices 
-## About the data 
-data from kaggle https://www.kaggle.com/datasets/mohamedaabdelgani/houses-price-in-cairo-new-2023
 
 ## Questions for Analysis
 1- what is the most frequent city in the data?
